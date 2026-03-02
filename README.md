@@ -1,6 +1,6 @@
 # Quant Experts: Token-aware Adaptive Error Reconstruction with Mixture of Experts for Large Vision-Language Models Quantization
 
-[![arXiv](https://img.shields.io/badge/arXiv-Paper-b31b1b.svg)](https://arxiv.org/abs/xxxx.xxxx) [![CVPR](https://img.shields.io/badge/CVPR-2026-blue.svg)](https://cvpr.thecvf.com/) [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
+[![arXiv](https://img.shields.io/badge/arXiv-Paper-b31b1b.svg)](https://arxiv.org/abs/2602.24059) [![CVPR](https://img.shields.io/badge/CVPR-2026-blue.svg)](https://cvpr.thecvf.com/) [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 
 **Keywords:** Vision-Language Models (VLMs) · Post-training Quantization (PTQ) · Mixture of Experts (MoE) · Adaptive Error Reconstruction
 
